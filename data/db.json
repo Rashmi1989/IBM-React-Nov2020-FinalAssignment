@@ -1,0 +1,97 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Stationary"
+    },
+    {
+      "id": 2,
+      "name": "Grocery"
+    },
+    {
+      "id": 3,
+      "name": "Utencils"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "car"
+    },
+    {
+      "id": 6,
+      "name": "car"
+    },
+    {
+      "id": 7,
+      "name": "truck"
+    },
+    {
+      "id": 8,
+      "name": "Car"
+    },
+    {
+      "id": 9,
+      "name": "car"
+    },
+    {
+      "id": 10,
+      "name": "clothes"
+    },
+    {
+      "id": 11,
+      "name": "Dress"
+    },
+    {
+      "id": 12,
+      "name": "bowel"
+    },
+    {
+      "id": 13,
+      "name": "bus"
+    },
+    {
+      "id": 14,
+      "name": "bus"
+    },
+    {
+      "id": 15,
+      "name": "truck"
+    },
+    {
+      "id": 16,
+      "name": "truck"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Hyundai i10",
+      "description": "1200cc",
+      "price": 500000,
+      "isOutOfStock": false,
+      "category": "Car"
+    }
+  ],
+  "cart":[
+     {
+      "id":1,
+      "name": "Hyundai i10",
+      "description": "1200cc",
+      "price": 500000,
+      "isOutOfStock": false,
+      "category": "Car",
+      "quantity":2
+     },
+     {
+      "id":3,
+      "name": "Honda Activa 6g",
+      "description": "120cc",
+      "price": 50000,
+      "isOutOfStock": false,
+      "category": "Two Wheeler",
+      "quantity":1
+     }
+  ]
+}
