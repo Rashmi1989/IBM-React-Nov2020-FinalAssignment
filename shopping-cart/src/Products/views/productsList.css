@@ -1,0 +1,7 @@
+.center-col {
+    flex: 1;
+    background: gray;
+    overflow:hidden;
+    overflow-y:scroll;
+  }
+  
